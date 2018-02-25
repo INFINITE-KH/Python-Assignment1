@@ -16,7 +16,38 @@ Questions:
 
 Text answer: xxxx
 
-Code answer: xxxx
+Code answer: 
+
+%matplotlib notebook
+import c
+import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt2
+
+count = 0
+data = {}
+my_data = c.STATISTICS["1994"][0]
+my_data2 = c.STATISTICS["2013"][0]
+
+my_data3 = c.STATISTICS["Year"][0]
+array_1994 = []
+array_2013 = []
+for value in my_data.values():
+    value = value.replace(".", "")
+    value = value.split(",")
+    array_1994.insert(len(array_1994), value[0])
+for n, g in zip(my_data3.values(), array_1994):
+    print(n, g)
+    
+for value in my_data2.values():
+    value = value.replace(".", "")
+    value = value.split(",")
+    array_2013.insert(len(array_2013), value[0])
+
+for n, g in zip(my_data3.values(), array_2013):
+    print(n, g)
+    
+#plt.bar(my_data3.values(), array_1994, color = "green")
+#plt.bar(my_data3.values(), array_2013, color = "blue")
 
 Our results: xxxx
 
@@ -24,7 +55,38 @@ Our results: xxxx
 
 Text answer: xxxx
 
-Code answer: xxxx
+Code answer: 
+
+%matplotlib notebook
+import c
+import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt2
+
+count = 0
+data = {}
+my_data = c.STATISTICS["1994"][0]
+my_data2 = c.STATISTICS["2013"][0]
+
+my_data3 = c.STATISTICS["Year"][0]
+array_1994 = []
+array_2013 = []
+for value in my_data.values():
+    value = value.replace(".", "")
+    value = value.split(",")
+    array_1994.insert(len(array_1994), value[0])
+for n, g in zip(my_data3.values(), array_1994):
+    print(n, g)
+    
+for value in my_data2.values():
+    value = value.replace(".", "")
+    value = value.split(",")
+    array_2013.insert(len(array_2013), value[0])
+
+for n, g in zip(my_data3.values(), array_2013):
+    print(n, g)
+    
+#plt.bar(my_data3.values(), array_1994, color = "green")
+#plt.bar(my_data3.values(), array_2013, color = "blue")
 
 Our results: xxxx
 
