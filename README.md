@@ -7,8 +7,12 @@ Pre words on our solution:
 So therefore in question 1 we decided that we only look on the crimes for the first year, and last year to analyse if the crime has dropped or grown.
 For question 2 we use the result from the first answer, where the graphs shown how the crime has changed.
 
-NOTE: We couldn't find a way to put to graphs in one model, so we have code for two graps in the bottom of the script which you have to outcomment one at a time to run at see the result.
+## NOTE: We couldn't find a way to put to graphs in one model, so we have code for two graps in the bottom of the script which you have to outcomment one at a time to run at see the result.
 
+## ---> Jupyter NoteBook Format <---:
+## https://github.com/INFINITE-KH/Python-Assignment1/blob/master/codeInNoteBook.ipynb
+
+## NB!! on X axis: The output of the long list should be the data on the X axis but it's messed up so that's why. (Messed up data converting in the first place!!!).
 
 Questions:
 
