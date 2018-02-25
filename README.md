@@ -7,7 +7,7 @@ Pre words on our solution:
 So therefore in question 1 we decided that we only look on the crimes for the first year, and last year to analyse if the crime has dropped or grown.
 For question 2 we use the result from the first answer, where the graphs shown how the crime has changed.
 
-NOTE: We couldnt fine a way to put to graphs in one model, so we have code for two graps in the bottom of the script which you have to outcomment one at a time to run at see the result.
+NOTE: We couldn't find a way to put to graphs in one model, so we have code for two graps in the bottom of the script which you have to outcomment one at a time to run at see the result.
 
 
 Questions:
