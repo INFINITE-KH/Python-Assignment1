@@ -53,7 +53,7 @@ for n, g in zip(my_data3.values(), array_2013):
 #plt.bar(my_data3.values(), array_1994, color = "green")
 #plt.bar(my_data3.values(), array_2013, color = "blue")
 
-Our results: xxxx
+Our results: ![Screenshot](graf1.png)
 
 - 2) Has the type of crime changed?
 
@@ -92,7 +92,7 @@ for n, g in zip(my_data3.values(), array_2013):
 #plt.bar(my_data3.values(), array_1994, color = "green")
 #plt.bar(my_data3.values(), array_2013, color = "blue")
 
-Our results: xxxx
+Our results: ![Screenshot](graf2.png)
 
 - 3) Has the crime moved to from one area to another?
 
