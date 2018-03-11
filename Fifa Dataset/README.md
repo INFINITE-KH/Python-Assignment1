@@ -1,8 +1,10 @@
 TEAM: Naughty Solution | Ali Khazendar, Casper Emde Christensen, Stephan Pedersen, Nicklas Vikke
 
+
 imports:
 import webget
 from collections import Counter
+
 
 Solutions for exercise 2 and 4 is in the document in the repo. The 2 mentioned exercise is the only exercises that is made.
 
