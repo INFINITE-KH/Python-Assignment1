@@ -2,7 +2,9 @@ TEAM: Naughty Solution | Ali Khazendar, Casper Emde Christensen, Stephan Pederse
 
 
 imports:
-\nimport webget
+
+import webget
+
 from collections import Counter
 
 
